@@ -7,7 +7,6 @@ It is here that I understand and solve strivers dsa sheet and implement it with 
 - Fork this repository, 
 - Respond to the issues 
 - Make meaningful pull requests.
-- 
 If you are a begineer to github let me help you with it.Catch me up on LinkedIn or find a suitable video on Youtube.
 
 
