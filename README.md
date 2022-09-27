@@ -1,8 +1,8 @@
-# Hey Visitors
-Hello everyoone ! Welcome to my dsa code sheets.
+# DSA
+Hello everyoone ! Welcome to my dsa code sheets.( Come'on not mine 😉 Fork it , it will be yours soon)
 It is here that I understand and solve strivers dsa sheet and implement the java and python codes.
 
-## Programs Done till now
-- Sort 0 ,1,and 2 in order with O(n) time complexity and O(1) space complexity
-- Find the missing and repeating numbers in an array.Implemented this using hashmaps although other 
-notable solutions include -- summing up using n(n+1)/2 and n(n+1)(2n+1)/6 ..and using them to find missing and repeating ellements.
+## Hacktober Guidelines
+
+Fork this repository, respond to my issues and make meaningful pull requests.
+If you are a begineer to github let me help you with it.
