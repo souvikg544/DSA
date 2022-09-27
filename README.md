@@ -4,5 +4,10 @@ It is here that I understand and solve strivers dsa sheet and implement the java
 
 ## Hacktober Guidelines
 
-Fork this repository, respond to my issues and make meaningful pull requests.
-If you are a begineer to github let me help you with it.
+- Fork this repository, 
+- Respond to the issues 
+- Make meaningful pull requests.
+- 
+If you are a begineer to github let me help you with it.Catch me up on LinkedIn or find a suitable video on Youtube.
+
+
