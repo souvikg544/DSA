@@ -1,0 +1,20 @@
+import java.util.Scanner;
+ class Main 
+ {
+     public static void main(String args[])
+     {
+         Scanner sc=new Scanner(System.in);
+         System.out.println("Enter the string");
+         String str=sc.nextLine();
+         String str1="";
+         char a,b,c,d;
+         int i,k,j;
+         for(i=0;i<str.length();i++)
+         {
+             a=str.charAt(i);
+             str1=a+str1;
+         }
+         System.out.println("The reversed String is: "+str1);
+     }
+ }
+    
