@@ -1,5 +1,5 @@
 # DSA
-Hello everyoone ! Welcome to my dsa code sheets.( Come'on not mine 😉 Fork it , it will be yours soon)
+Hello everyoone !  Welcome to my dsa code sheets.( Come'on not mine 😉 Fork it , it will be yours soon)
 It is here that I understand and solve strivers dsa sheet and implement it with java and python.
 
 ## Hacktober Guidelines
