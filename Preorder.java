@@ -1,6 +1,9 @@
 static string preorder(Node tree)
   {
-      preorder(tree.left);
+   
+
+
       System.out.println(tree.root);
+      preorder(tree.left);
       preorder(tree.right);
   }
