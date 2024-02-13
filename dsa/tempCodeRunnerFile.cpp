@@ -1,0 +1,2 @@
+
+    first->next=second;
