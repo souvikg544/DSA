@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
+
+    // map store ey value pair..
     map<int,int>mp;
     for(int i=1;i<=5;i++)
     {
